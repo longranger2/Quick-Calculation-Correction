@@ -1,0 +1,13 @@
+7.jpg,738,249,761,351,equation
+7.jpg,691,228,720,360,equation
+7.jpg,646,231,673,361,equation
+7.jpg,555,394,579,503,equation
+7.jpg,468,234,492,329,equation
+7.jpg,427,394,450,511,equation
+7.jpg,427,234,450,350,equation
+7.jpg,387,235,409,328,equation
+7.jpg,385,395,409,502,equation
+7.jpg,346,236,368,324,equation
+7.jpg,305,236,328,348,equation
+7.jpg,268,390,289,518,equation
+7.jpg,279,58,308,177,equation

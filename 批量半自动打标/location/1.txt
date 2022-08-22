@@ -1,0 +1,4 @@
+1.jpg,691,192,718,306,equation
+1.jpg,641,353,669,463,equation
+1.jpg,599,350,623,464,equation
+1.jpg,477,348,499,461,equation
