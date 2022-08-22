@@ -1,0 +1,6 @@
+numpy==1.20.3
+joblib==1.0.1
+torch==1.8.2
+torchvision==0.9.2
+tqdm==4.62.2
+Pillow==8.3.2
