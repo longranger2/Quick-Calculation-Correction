@@ -11,4 +11,3 @@ password: 9g6o
 ### Model Parameters
 link: https://pan.baidu.com/s/1M7kafIWHs4liB5BiGMOb8g  
 password: ims2
-
