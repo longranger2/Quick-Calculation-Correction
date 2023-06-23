@@ -153,4 +153,4 @@ python cifar100_prune.py --mode train --round 0 --total_epochs 200 --batch_size 
 python cifar100_prune.py --mode prune --round 1 --total_epochs 120 --batch_size 512
 ```
 
-..........................................................................等等
+等等
